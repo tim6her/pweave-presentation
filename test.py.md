@@ -41,7 +41,7 @@ Ha ha, the value is <%= x %>
 
 ## And now for a diagramm
 
-```{python, results = 'raw', echo = False}
+``` python
 
 import plotly
 import plotly.graph_objs as go
