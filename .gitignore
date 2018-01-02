@@ -1,0 +1,5 @@
+.DS_Store
+figures/*
+build/
+*.pmd
+*.pmd-e
